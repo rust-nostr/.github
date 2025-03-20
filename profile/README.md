@@ -8,8 +8,6 @@ Learn more about `rust-nostr` at <https://rust-nostr.org>.
 
 ## Projects
 
-<!-- TODO: add lead maintainer column -->
-
 | Project                  | Description                                                                   | Repository                                           | Lead Maintainer  |
 |--------------------------|-------------------------------------------------------------------------------|------------------------------------------------------|------------------|
 | `nostr`                  | Rust implementation of the nostr protocol, high-level libraries, NWC and more | https://github.com/rust-nostr/nostr                  | [Yuki Kishimoto] |
@@ -20,7 +18,7 @@ Learn more about `rust-nostr` at <https://rust-nostr.org>.
 | `nostr-sdk-swift`        | Nostr SDK - Swift Package                                                     | https://github.com/rust-nostr/nostr-sdk-swift        | -                |
 | `nostr-sdk-react-native` | Nostr SDK - React Native Package                                              | https://github.com/rust-nostr/nostr-sdk-react-native |                  |
 | `book`                   | Book with documentation and examples for all the `rust-nostr` projects        | https://github.com/rust-nostr/book                   |                  |
-| `nostr-rest`             | A bridge for interacting with nostr relays using rest API.                    | https://github.com/rust-nostr/nostr-rest             |                  |
+| `nostr-rest`             | A bridge for interacting with nostr relays using rest API                     | https://github.com/rust-nostr/nostr-rest             |                  |
 | `nostr-desktop`          | Nostr Desktop Client                                                          | https://github.com/rust-nostr/nostr-desktop          |                  |
 
 [Yuki Kishimoto]: <https://yukikishimoto.com>
